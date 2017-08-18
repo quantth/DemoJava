@@ -1,0 +1,2 @@
+Area = 30.0 
+Perimeter = 22.0
