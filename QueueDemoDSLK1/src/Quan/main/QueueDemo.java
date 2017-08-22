@@ -74,7 +74,7 @@ public class QueueDemo {
     }
     public static void main(String[] args){
         QueueDSLK que = new QueueDSLK();
-       /* System.out.println("INSERTING AT LAST (REAR) IN QUEUE IMPLEMENTED USING LINKED LIST ");
+       /* 
         que.push(11);
         que.displayQueue();
         que.push(12);
@@ -83,8 +83,7 @@ public class QueueDemo {
         que.displayQueue();
         que.push(14);
 
-        System.out.println("\nDELETING FROM FIRST (FRONT) OF QUEUE IMPLEMENTED USING LINKED LIST ");
-
+      
         que.pop();
         que.displayQueue();
         que.pop();
